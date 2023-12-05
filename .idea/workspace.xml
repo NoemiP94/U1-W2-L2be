@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3390df81-dc7a-44f1-92c8-7330db7937c5" name="Changes" comment="add first exercise">
-      <change afterPath="$PROJECT_DIR$/src/es2/Main.java" afterDir="false" />
+    <list default="true" id="3390df81-dc7a-44f1-92c8-7330db7937c5" name="Changes" comment="add second exercise">
+      <change afterPath="$PROJECT_DIR$/src/es3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es3/RubricaTelefonica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/logback_classic_1_4_14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/logback_classic_1_4_14.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +42,8 @@
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/m_emi/OneDrive/Desktop/Epicode/Esercizi/U1-W2-L2be/lib/slf4j-api-2.0.9.jar",
     "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,11 +63,20 @@
       <option name="project" value="LOCAL" />
       <updated>1701785783686</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add second exercise">
+      <option name="closed" value="true" />
+      <created>1701787011579</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701787011579</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add first exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="add first exercise" />
+    <MESSAGE value="add second exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="add second exercise" />
   </component>
 </project>
